@@ -1,0 +1,18 @@
+source:https://www.cbs.nl/-/media/_pdf/2016/35/shape%202016%20versie%2010.zip
+
+
+7. Voorwaarden gebruik
+De gebruiker van de Wijk- en Buurtkaart is gehouden aan de volgende rechten en
+verplichtingen:
+1. Alle rechten op de Wijk- en Buurtkaart blijven te allen tijde berusten bij het Centraal
+Bureau voor de Statistiek en het Kadaster;
+2. Bij de gegevensvermelding op basis van de Wijk- en Buurtkaart is bronvermelding
+verplicht;
+3. Bij visualisering van grenzen of bij visualisering van gegevens met behulp van dit digitale
+bestand dient te worden vermeld:
+© Kadaster / Centraal Bureau voor de Statistiek, 2016
+4. Het gebruik van geometrie van buurtgrenzen en buurtcijfers van het CBS als toevoeging
+aan het bestand burgerlijke gemeentegrenzen is zonder kosten;
+5. Bij publicatie van cijfers is bronvermelding verplicht, verveelvoudiging voor eigen gebruik
+of intern gebruik is toegestaan;
+Copyright: (c) Centraal Bureau voor de Statistiek, Den Haag/Heerlen, 2016
